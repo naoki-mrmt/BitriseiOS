@@ -1,4 +1,5 @@
 # BitriseiOS
+[![Build Status](https://app.bitrise.io/app/ff873f31dae2cdb6/status.svg?token=TQfyNkNbesusylrkJfJCrw&branch=develop)](https://app.bitrise.io/app/ff873f31dae2cdb6)
 ## 環境構築
 ### 事前準備
 - Bundlerをインストール
